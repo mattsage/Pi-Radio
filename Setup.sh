@@ -11,3 +11,7 @@ sudo apt-get install samba samba-common-bin
 
 #PhatBeat
 curl https://get.pimoroni.com/phatbeat | bash
+
+#Airdac
+curl -sS get.pimoroni.com/airdac | bash
+
